@@ -5,7 +5,7 @@ Interpreter for most generic math expressions.
 Includes:
 
 - Summation, Substraction, Multiplication, Division
-- Power
+- Power and factorial
 - Unary operations
 - Correct interpretation of expressions including parenthesis ()
 
