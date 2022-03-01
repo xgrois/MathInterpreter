@@ -4,9 +4,10 @@ Interpreter for most generic math expressions.
 
 Includes:
 
+- Integer and decimal numbers, e.g., "12.5", ".5"
 - Summation, Substraction, Multiplication, Division
-- Power and factorial
-- Unary operations
+- Power and Factorial
+- Unary operations, e.g., "--5", "-(...)"
 - Correct interpretation of expressions including parenthesis ()
 
 # Lexer
